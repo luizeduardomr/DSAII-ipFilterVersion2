@@ -32,6 +32,5 @@ For example, following what has been said, we have some simplified address pairs
 837159809-839258919
 273032866-505234870
 135087090-305043137
-
 ```
 By: [luizeduardomr](https://github.com/luizeduardomr) & [LeoMello07](https://github.com/LeoMello07)
