@@ -8,10 +8,10 @@ This repository is public in order to show the solution to the problem, __but it
 </br>
 
 ## Proposed problem
-The statement states that in an IP address, first is the smallest IP number that was banned, and then the last blocked IP number, these two values being included to be blocked. For example, following what has been said, we have some simplified address pairs for better understanding:
+The statement states that in an IP address, first is the smallest IP number that was banned, and then the last blocked IP number, these two values being included to be blocked.
 
 ## IPs list example
-In this IP list example, the final result, that is, the reduced IP list will be: __45389652-1045135809__.
+For example, following what has been said, we have some simplified address pairs for better understanding. In this IP list example, the final result, that is, the reduced IP list will be: __45389652-1045135809__.
 ```
 793359858-872845434
 163828202-386942572
